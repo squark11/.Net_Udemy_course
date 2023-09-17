@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "yPSlYBoZUkpnReWkkkjvq5+sMTTNxSsoYkiA5gyZ/sdUB+9HFal98U+7YbS2wYsspFsdcBn+D/99IMOiA3dYPg==",
+  "dgSpecHash": "Y/8DHNs+BJ20IHZ0LOUWVszQMnPP7bfswG7yZm7KSVwFCt85N6GuC5783ULrJO7NduLNfFrIXoyVJ68/oZlv3g==",
   "success": true,
   "projectFilePath": "D:\\.net\\.Net_Udemy_course\\RestaurantAPI\\RestaurantAPI\\RestaurantAPI.csproj",
   "expectedPackageFiles": [
@@ -100,7 +100,8 @@
     "C:\\Users\\kacpe\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\kacpe\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\kacpe\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\kacpe\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
+    "C:\\Users\\kacpe\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
+    "C:\\Users\\kacpe\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
   ],
   "logs": []
 }
