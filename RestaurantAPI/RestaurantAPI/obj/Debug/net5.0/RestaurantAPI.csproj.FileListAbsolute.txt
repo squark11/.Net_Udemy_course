@@ -57,3 +57,5 @@ D:\.net\.Net_Udemy_course\RestaurantAPI\RestaurantAPI\obj\Debug\net5.0\staticweb
 D:\.net\.Net_Udemy_course\RestaurantAPI\RestaurantAPI\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.RestaurantAPI.props
 D:\.net\.Net_Udemy_course\RestaurantAPI\RestaurantAPI\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.RestaurantAPI.props
 D:\.net\.Net_Udemy_course\RestaurantAPI\RestaurantAPI\obj\Debug\net5.0\refint\RestaurantAPI.dll
+D:\.net\.Net_Udemy_course\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\AutoMapper.dll
+D:\.net\.Net_Udemy_course\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
