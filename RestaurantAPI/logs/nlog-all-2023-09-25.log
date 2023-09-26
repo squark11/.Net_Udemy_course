@@ -1,0 +1,28 @@
+2023-09-25 20:50:57.7325||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2023-09-25 20:50:57.7935||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2023-09-25 20:50:57.8135||INFO|Microsoft.Hosting.Lifetime|Content root path: D:\.net\.Net_Udemy_course\RestaurantAPI\RestaurantAPI 
+2023-09-25 20:50:58.3904||WARN|RestaurantAPI.Services.RestaurantService|Restaurant with id: 323 Delete action invoked 
+2023-09-25 20:56:23.2447||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2023-09-25 20:56:23.3087||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2023-09-25 20:56:23.3243||INFO|Microsoft.Hosting.Lifetime|Content root path: D:\.net\.Net_Udemy_course\RestaurantAPI\RestaurantAPI 
+2023-09-25 20:56:23.6362||ERROR|RestaurantAPI.Services.RestaurantService|Restaurant with id: 323 Delete action invoked 
+2023-09-25 20:56:50.7484||ERROR|RestaurantAPI.Services.RestaurantService|Restaurant with id: 323 Delete action invoked 
+2023-09-25 20:57:47.6793||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2023-09-25 20:57:47.7626||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2023-09-25 20:57:47.8737||INFO|Microsoft.Hosting.Lifetime|Content root path: D:\.net\.Net_Udemy_course\RestaurantAPI\RestaurantAPI 
+2023-09-25 20:58:10.2474||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2023-09-25 20:58:10.2872||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2023-09-25 20:58:10.3841||INFO|Microsoft.Hosting.Lifetime|Content root path: D:\.net\.Net_Udemy_course\RestaurantAPI\RestaurantAPI 
+2023-09-25 20:58:10.5447||ERROR|RestaurantAPI.Services.RestaurantService|Restaurant with id: 323 Delete action invoked 
+2023-09-25 20:59:39.8225||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2023-09-25 20:59:39.8777||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2023-09-25 20:59:39.9989||INFO|Microsoft.Hosting.Lifetime|Content root path: D:\.net\.Net_Udemy_course\RestaurantAPI\RestaurantAPI 
+2023-09-25 20:59:40.1725||ERROR|RestaurantAPI.Services.RestaurantService|Restaurant with id: 323 Delete action invoked 
+2023-09-25 21:00:48.4056||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2023-09-25 21:00:48.7854||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2023-09-25 21:00:48.8646||INFO|Microsoft.Hosting.Lifetime|Content root path: D:\.net\.Net_Udemy_course\RestaurantAPI\RestaurantAPI 
+2023-09-25 21:01:01.7297||ERROR|RestaurantAPI.Services.RestaurantService|Restaurant with id: 343 Delete action invoked 
+2023-09-25 21:02:33.6101||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2023-09-25 21:02:33.6653||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2023-09-25 21:02:33.6800||INFO|Microsoft.Hosting.Lifetime|Content root path: D:\.net\.Net_Udemy_course\RestaurantAPI\RestaurantAPI 
+2023-09-25 21:02:33.9024||ERROR|RestaurantAPI.Services.RestaurantService|Restaurant with id: 343 Delete action invoked 

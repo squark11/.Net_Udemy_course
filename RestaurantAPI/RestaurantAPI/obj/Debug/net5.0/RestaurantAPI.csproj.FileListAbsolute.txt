@@ -59,3 +59,7 @@ D:\.net\.Net_Udemy_course\RestaurantAPI\RestaurantAPI\obj\Debug\net5.0\staticweb
 D:\.net\.Net_Udemy_course\RestaurantAPI\RestaurantAPI\obj\Debug\net5.0\refint\RestaurantAPI.dll
 D:\.net\.Net_Udemy_course\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\AutoMapper.dll
 D:\.net\.Net_Udemy_course\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\.net\.Net_Udemy_course\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\nlog.config
+D:\.net\.Net_Udemy_course\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\NLog.dll
+D:\.net\.Net_Udemy_course\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+D:\.net\.Net_Udemy_course\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\NLog.Web.AspNetCore.dll

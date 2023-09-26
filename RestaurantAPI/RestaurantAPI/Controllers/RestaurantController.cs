@@ -13,6 +13,7 @@ namespace RestaurantAPI.Controllers
 {
 
     [Route("api/restaurant")]
+    [ApiController]
     public class RestaurantController : ControllerBase
     {
         private readonly IRestaurantService _restaurantService;
@@ -25,30 +26,18 @@ namespace RestaurantAPI.Controllers
 
 
         [HttpPut("{id}")]
-        public ActionResult Put([FromRoute] int id, [FromBody] UpdateRestaurantDto updateDto)
+        public ActionResult Update([FromRoute] int id, [FromBody] UpdateRestaurantDto updateDto)
         {
-            if (!ModelState.IsValid)
-            {
-                return BadRequest(ModelState);
-            }
             _restaurantService.Update(id, updateDto);
-
-            var isUpdated = _restaurantService.Update(id, updateDto);
-
-            if (!isUpdated) { 
-                return NotFound();
-            } 
+    
             return Ok();
         }
 
         [HttpDelete("{id}")]
         public ActionResult Delete([FromRoute] int id)
         {
-            var isDeleted = _restaurantService.Delete(id);
-            if (isDeleted)
-            {
-                return NoContent();
-            }
+            _restaurantService.Delete(id);
+       
 
             return NotFound();
         }
@@ -56,10 +45,6 @@ namespace RestaurantAPI.Controllers
         [HttpPost]
         public ActionResult CreateRestaurant([FromBody] CreateRestaurantDto dto)
         {
-            if (!ModelState.IsValid)
-            {
-                return BadRequest(ModelState);
-            }
 
             var id = _restaurantService.Create(dto);
 
@@ -78,16 +63,8 @@ namespace RestaurantAPI.Controllers
 
         public ActionResult<RestaurantDto> Get([FromRoute] int id)
         {
-            
             var restaurant = _restaurantService.GetById(id);
-
-
-            if(restaurant is null)
-            {
-                return NotFound();
-            }
-            var restaurantDto = restaurant;
-            return Ok(restaurantDto);
+            return Ok(restaurant);
         }
          
     }
