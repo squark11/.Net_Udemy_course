@@ -1,0 +1,1 @@
+2023-10-02 23:06:22.0861||INFO|RestaurantAPI.Middleware.RequestTimeMiddleware|Request [GET] at /api/restaurant took 13028ms 
